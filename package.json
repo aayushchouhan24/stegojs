@@ -1,6 +1,6 @@
 {
   "name": "stegojs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stego Js",
   "main": "lib/Stego.js",
   "scripts": {
